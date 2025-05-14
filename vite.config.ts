@@ -2,7 +2,7 @@ import path from 'path';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/sssssssurvivor',
+  base: '/snake',
   resolve: {
     alias: {
       utils: path.resolve(__dirname, 'src/utils'),

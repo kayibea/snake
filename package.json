@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://kayibea.github.io/sssssssurvivor",
+  "homepage": "https://kayibea.github.io/snake",
   "prettier": {
     "printWidth": 120,
     "tabWidth": 2,
